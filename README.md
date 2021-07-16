@@ -99,3 +99,7 @@
    - ![](https://img.alicdn.com/imgextra/i4/745555067/O1CN012HrM6P1nIjWjqh8v1_!!745555067.jpg)
    - ![](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23842801713.29.7e3be215mWZunR&id=615260832276)
 
+
+1. 高通IPQ4019 1300Mwave2双频企业级双4G路由 OpenWrt三频 开发板
+   - https://item.taobao.com/item.htm?spm=2013.1.w4004-17274861113.5.90132454sus0FO&id=591663477056
+   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01LzLa3W2DR8hg8uC9T_!!2978608605.jpg)
