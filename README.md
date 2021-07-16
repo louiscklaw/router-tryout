@@ -103,3 +103,8 @@
 1. 高通IPQ4019 1300Mwave2双频企业级双4G路由 OpenWrt三频 开发板
    - https://item.taobao.com/item.htm?spm=2013.1.w4004-17274861113.5.90132454sus0FO&id=591663477056
    - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01LzLa3W2DR8hg8uC9T_!!2978608605.jpg)
+   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN011ckJIK2DR8hdgwoCT_!!2978608605.jpg)
+   - ![](https://img.alicdn.com/imgextra/i2/2978608605/O1CN016Y4P9X2DR8hk0oj3z_!!2978608605.jpg)
+   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01MHw7Bk2DR8hk0pw0P_!!2978608605.jpg)
+   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01QF7JQS2DR8kLX7NxD_!!2978608605.png)
+   - 
