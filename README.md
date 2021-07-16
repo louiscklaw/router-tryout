@@ -91,3 +91,11 @@
 
 1. HLK-RM28E 5G WiFi 无线路由模块双频 1200M 性能稳定高速 wifi 传输
    - https://item.taobao.com/item.htm?spm=a230r.1.14.38.60886f6eXZSvuo&id=637832854848&ns=1&abbucket=14#detail
+
+
+1. MT7621路由器开发板千兆网口openwrt提供源码定制定制通讯网关5G
+   - https://item.taobao.com/item.htm?spm=a230r.1.14.40.155d301cfZln1F&id=613512526296&ns=1&abbucket=14#detail
+   - ![](https://img.alicdn.com/imgextra/i1/745555067/O1CN01I0u53G1nIjWehHbji_!!745555067.jpg)
+   - ![](https://img.alicdn.com/imgextra/i4/745555067/O1CN012HrM6P1nIjWjqh8v1_!!745555067.jpg)
+   - ![](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23842801713.29.7e3be215mWZunR&id=615260832276)
+
