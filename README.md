@@ -1,5 +1,14 @@
 # louis's router tryout
 
+1. 高通 IPQ4019 1300Mwave2 双频企业级双 4G 路由 OpenWrt 三频 开发板
+
+   - https://item.taobao.com/item.htm?spm=2013.1.w4004-17274861113.5.90132454sus0FO&id=591663477056
+   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01LzLa3W2DR8hg8uC9T_!!2978608605.jpg)
+   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN011ckJIK2DR8hdgwoCT_!!2978608605.jpg)
+   - ![](https://img.alicdn.com/imgextra/i2/2978608605/O1CN016Y4P9X2DR8hk0oj3z_!!2978608605.jpg)
+   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01MHw7Bk2DR8hk0pw0P_!!2978608605.jpg)
+   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01QF7JQS2DR8kLX7NxD_!!2978608605.png)
+
 1. WiFi6 千兆无线路由器开发板 RM60 5G 双频 WiFi 模块 OpenWrt 开发套件
    ¥ 399.00-419.00
 
@@ -90,21 +99,11 @@
    - ![](https://img.alicdn.com/imgextra/i4/2209270142194/O1CN01HKyAQP1S4tbcYeW6Y_!!2209270142194.jpg)
 
 1. HLK-RM28E 5G WiFi 无线路由模块双频 1200M 性能稳定高速 wifi 传输
+
    - https://item.taobao.com/item.htm?spm=a230r.1.14.38.60886f6eXZSvuo&id=637832854848&ns=1&abbucket=14#detail
 
-
-1. MT7621路由器开发板千兆网口openwrt提供源码定制定制通讯网关5G
+1. MT7621 路由器开发板千兆网口 openwrt 提供源码定制定制通讯网关 5G
    - https://item.taobao.com/item.htm?spm=a230r.1.14.40.155d301cfZln1F&id=613512526296&ns=1&abbucket=14#detail
    - ![](https://img.alicdn.com/imgextra/i1/745555067/O1CN01I0u53G1nIjWehHbji_!!745555067.jpg)
    - ![](https://img.alicdn.com/imgextra/i4/745555067/O1CN012HrM6P1nIjWjqh8v1_!!745555067.jpg)
    - ![](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23842801713.29.7e3be215mWZunR&id=615260832276)
-
-
-1. 高通IPQ4019 1300Mwave2双频企业级双4G路由 OpenWrt三频 开发板
-   - https://item.taobao.com/item.htm?spm=2013.1.w4004-17274861113.5.90132454sus0FO&id=591663477056
-   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01LzLa3W2DR8hg8uC9T_!!2978608605.jpg)
-   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN011ckJIK2DR8hdgwoCT_!!2978608605.jpg)
-   - ![](https://img.alicdn.com/imgextra/i2/2978608605/O1CN016Y4P9X2DR8hk0oj3z_!!2978608605.jpg)
-   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01MHw7Bk2DR8hk0pw0P_!!2978608605.jpg)
-   - ![](https://img.alicdn.com/imgextra/i4/2978608605/O1CN01QF7JQS2DR8kLX7NxD_!!2978608605.png)
-   - 
