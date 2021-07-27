@@ -1,0 +1,42 @@
+Format: Log Type - Time(microsec) - Message - Optional Info
+Log Type: B - Since Boot(Power On Reset),  D - Delta,  S - Statistic
+S - QC_IMAGE_VERSION_STRING=BOOT.BF.3.1.1-00117
+S - IMAGE_VARIANT_STRING=DAABANAZA
+S - OEM_IMAGE_VERSION_STRING=CRM
+S - Boot Config, 0x00000021
+S - Reset status Config, 0x00000000
+S - Core 0 Frequency, 0 MHz
+B -       262 - PBL, Start
+B -      1342 - bootable_media_detect_entry, Start
+B -      1684 - bootable_media_detect_success, Start
+B -      1698 - elf_loader_entry, Start
+B -      5109 - auth_hash_seg_entry, Start
+B -      7277 - auth_hash_seg_exit, Start
+B -    585018 - elf_segs_hash_verify_entry, Start
+B -    704151 - PBL, End
+B -    704175 - SBL1, Start
+B -    795149 - pm_device_init, Start
+D -         7 - pm_device_init, Delta
+B -    796687 - boot_flash_init, Start
+D -     63643 - boot_flash_init, Delta
+B -    864484 - boot_config_data_table_init, Start
+D -      3866 - boot_config_data_table_init, Delta - (419 Bytes)
+B -    871673 - clock_init, Start
+D -      7563 - clock_init, Delta
+B -    883739 - CDT version:2,Platform ID:8,Major ID:1,Minor ID:0,Subtype:1
+B -    887152 - sbl1_ddr_set_params, Start
+B -    892249 - cpr_init, Start
+D -         2 - cpr_init, Delta
+B -    896631 - Pre_DDR_clock_init, Start
+D -         4 - Pre_DDR_clock_init, Delta
+D -     13176 - sbl1_ddr_set_params, Delta
+B -    909943 - pm_driver_init, Start
+D -         3 - pm_driver_init, Delta
+B -    981102 - sbl1_wait_for_ddr_training, Start
+D -        27 - sbl1_wait_for_ddr_training, Delta
+B -    997355 - Image Load, Start
+D -    140769 - QSEE Image Loaded, Delta - (274048 Bytes)
+B -   1138557 - Image Load, Start
+D -      1437 - SEC Image Loaded, Delta - (2048 Bytes)
+B -   1148875 - Image Load, Start
+B -   1150044 - Boot error ocuured!. Error code: 3039
